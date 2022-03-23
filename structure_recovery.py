@@ -1,6 +1,6 @@
 """"
 This script produces the figure for the simulation study on block structure
-recovery in van den Boom et al. (2022, in preparation).
+recovery in van den Boom et al. (2022, arXiv:2203.11664).
 """
 
 import igraph

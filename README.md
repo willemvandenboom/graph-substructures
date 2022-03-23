@@ -2,7 +2,7 @@
 
 Repository with the code used for the paper "Bayesian Learning of Graph
 Substructures" by Willem van den Boom, Maria De Iorio and Alexandros Beskos
-(in preparation).
+([arXiv:2203.11664](https://arxiv.org/abs/2203.11664)).
 
 
 ## Description of files

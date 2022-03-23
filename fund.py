@@ -1,6 +1,6 @@
 """"
 This script produces the results for the application to mutual fund data in
-van den Boom et al. (2022, in preparation).
+van den Boom et al. (2022, arXiv:2203.11664).
 """
 
 import igraph

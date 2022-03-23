@@ -1,6 +1,6 @@
 """"
 This script produces the results for the simulation study with the karate club
-network in van den Boom et al. (2022, in preparation).
+network in van den Boom et al. (2022, arXiv:2203.11664).
 
 The results include the figure with posterior similarity matrices as well as
 the figure for the comparison of the proposed Bayes factor computation with the
