@@ -5,7 +5,7 @@
 for (tmp in c("BiocManager", "httr")) {
 
     if(!tmp %in% rownames(installed.packages())) install.packages(
-        pkgs = "BiocManager",
+        pkgs = tmp,
         repos = "https://cloud.r-project.org",
         dependencies = T
     )
